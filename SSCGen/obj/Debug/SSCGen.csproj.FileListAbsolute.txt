@@ -1,0 +1,24 @@
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.exe.config
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.exe
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.pdb
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.csprojResolveAssemblyReference.cache
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.Form1.resources
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.Properties.Resources.resources
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.csproj.GenerateResource.Cache
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.exe
+C:\Users\Darius\Documents\Visual Studio 2015\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.pdb
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.exe.config
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.exe
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.pdb
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.exe
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\SSCGen.pdb
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\System.Net.Http.dll
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\System.Net.Http.xml
+D:\Workspace\Projects\SSCGen\SSCGen\bin\Debug\de\System.Net.Http.resources.dll
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.csprojResolveAssemblyReference.cache
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.Form1.resources
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.Properties.Resources.resources
+D:\Workspace\Projects\SSCGen\SSCGen\obj\Debug\SSCGen.csproj.GenerateResource.Cache
+D:\Workspace\Projects\_gointogithub\SSCGen\SSCGen\bin\Debug\SSCGen.exe.config
+D:\Workspace\Projects\_gointogithub\SSCGen\SSCGen\obj\Debug\SSCGen.exe
+D:\Workspace\Projects\_gointogithub\SSCGen\SSCGen\obj\Debug\SSCGen.pdb
